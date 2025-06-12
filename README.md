@@ -79,7 +79,31 @@ The core of the platform, managing data operations, user authentication, and com
 
 The following image illustrates the system architecture of the Book4Me platform:
 
-![System Architecture](asset/System Architecture.png)
+![System Architecture](asset/SystemArchitecture.png)
+
+---
+
+## Use Case Diagram
+
+The following image illustrates the use case diagram of the Book4Me platform:
+
+![System Architecture](asset/usecasediagrams.png)
+
+---
+
+## Customer Home Screen
+
+The following image illustrates the customer's home screen of the Book4Me platform:
+
+![System Architecture](asset/customerhomescreen.png)
+
+---
+
+## Seller Home Screen
+
+The following image illustrates the seller's home screen of the Book4Me platform:
+
+![System Architecture](asset/sellerhomescreen.png)
 
 ---
 
