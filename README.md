@@ -75,6 +75,14 @@ The core of the platform, managing data operations, user authentication, and com
 
 ---
 
+## System Architecture
+
+The following image illustrates the system architecture of the Book4Me platform:
+
+![System Architecture](asset/System Architecture.png)
+
+---
+
 ## Target Audience
 
 - **Customers:** Book enthusiasts, students, and professionals seeking an accessible platform to discover and purchase books
