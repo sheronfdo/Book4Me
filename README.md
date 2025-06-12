@@ -192,7 +192,7 @@ This project is licensed under the MIT License. See individual repositories for 
 
 For questions or inquiries, contact the project maintainer at:
 
-**Email:** sheronfdo@example.com  
+**Email:** jamithsheron5@gmail.com  
 **Issues:** Open an issue in the respective repository.
 
 ---
